@@ -7,7 +7,7 @@ import './component/banner/banner.js';
 import './component/download/download.js';
 import './component/feeds/feeds.js';
 import './component/profile/profile.js';
-
+import Vuex from 'vuex'
 let { mapState, mapMutations } = Vuex;
 
 new Vue({

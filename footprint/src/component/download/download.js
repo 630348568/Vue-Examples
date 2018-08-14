@@ -1,5 +1,6 @@
 import './download.css';
 import Vue from 'vue/dist/vue.js';
+import Vuex from 'vuex'
 let { mapActions } = Vuex;
 
 Vue.component('download', {

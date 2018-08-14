@@ -1,6 +1,6 @@
 import './profile.css';
 import Vue from 'vue/dist/vue.js';
-
+import Vuex from 'vuex'
 let { mapState, mapMutations, mapActions } = Vuex;
 
 Vue.component('profile', {

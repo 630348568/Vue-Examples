@@ -1,4 +1,5 @@
 import Vue from 'vue/dist/vue.js';
+import Vuex from 'vuex'
 import '../server.js';
 import banner from './modules/banner.js';
 import feeds from './modules/feeds.js';
